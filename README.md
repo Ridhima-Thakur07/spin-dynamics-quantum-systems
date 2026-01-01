@@ -10,7 +10,7 @@ It is based on fundamental concepts of quantum mechanics studied as part of the 
 - To analyze results obtained from computational models
 
 ## Technologies Used
-- Programming Language: C / Python
+- Programming Language: Python
 - Core Concepts: Quantum Mechanics, Spin Dynamics, Numerical Methods
 
 ## My Contribution
